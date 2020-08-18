@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... A todo list social app.
 - 🤔 I’m looking for help with ... Database and digital marketing
 - 💬 Ask me about ... what to learn in web development
-- 📫 How to reach me: ... jeremievalili@jeremievalili.com
+- 📫 How to reach me: ... jeremiemadara@gmail.com
 - 😄 Pronouns: ... Valilien
 - ⚡ Fun fact: ... I love eat pizza! 
 
