@@ -1,11 +1,6 @@
-### Hi there 👋
+### Greetings! 👋
 
-- 🔭 I’m currently working on ... Pokedex app in React
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... A todo list social app.
-- 🤔 I’m looking for help with ... Database and digital marketing
-- 💬 Ask me about ... what to learn in web development
-- 📫 How to reach me: ... jeremiemadara@gmail.com
-- 😄 Pronouns: ... Valilien
-- ⚡ Fun fact: ... I love eat pizza! 
+- 🔭 I’m in love with web dev and security 
+- 🌱 I’m currently learning Javascript and Python
+
 
