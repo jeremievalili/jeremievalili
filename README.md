@@ -1,3 +1,12 @@
+## À propos de moi
+
+Je suis passionné(e) par le développement web et l'intelligence artificielle.
+
+Je suis toujours à la recherche de nouveaux défis et j'aime apprendre de nouvelles technologies. 
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="200"/>
 </div>
